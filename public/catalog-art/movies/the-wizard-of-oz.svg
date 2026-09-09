@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="The Wizard of Oz"><rect width="800" height="1000" fill="#140c14"/><rect width="800" height="420" fill="#29b6f6"/>
+    <rect y="420" width="800" height="580" fill="#66bb6a"/>
+    <path d="M80 860 Q400 500 720 860" fill="none" stroke="#f9a825" stroke-width="28"/>
+    <polygon points="560,200 620,360 500,360" fill="#eceff1"/>
+    <circle cx="180" cy="180" r="50" fill="#fffde7"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">The Wizard of Oz</text></svg>

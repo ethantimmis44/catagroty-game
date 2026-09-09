@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Spider-Gwen"><rect width="800" height="1000" fill="#eceff1"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#f4efe4"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#f4efe4"/>
+    <path d="M400 520 L400 980 M270 640 L530 640 M290 560 L510 820 M510 560 L290 820" stroke="#eceff1" stroke-width="5" fill="none"/>
+    <ellipse cx="338" cy="368" rx="42" ry="52" fill="#f4efe4"/>
+    <ellipse cx="462" cy="368" rx="42" ry="52" fill="#f4efe4"/>
+    <ellipse cx="338" cy="368" rx="18" ry="28" fill="#eceff1"/>
+    <ellipse cx="462" cy="368" rx="18" ry="28" fill="#eceff1"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Spider-Gwen</text></svg>

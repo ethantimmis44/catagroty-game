@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Deathstroke"><rect width="800" height="1000" fill="#1a0c08"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#ef6c00"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#f1d0b0"/>
+    <path d="M280 240 H520 L490 360 H310 Z" fill="#ef6c00"/>
+    <path d="M400 240 L520 240 L490 360 L400 360 Z" fill="#f4efe4"/>
+    <rect x="540" y="600" width="22" height="220" fill="#cfd8dc"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Deathstroke</text></svg>

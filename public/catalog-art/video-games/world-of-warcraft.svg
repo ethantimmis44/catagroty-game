@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="World of Warcraft"><rect width="800" height="1000" fill="#101018"/><rect width="800" height="1000" fill="#1a237e"/>
+    <polygon points="400,160 560,500 240,500" fill="#c9a227"/>
+    <circle cx="400" cy="360" r="70" fill="#5d4037"/>
+    <path d="M120 780 Q400 640 680 780" fill="#3e2723"/>
+    <rect x="360" y="500" width="80" height="260" fill="#8d6e63"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">World of Warcraft</text></svg>

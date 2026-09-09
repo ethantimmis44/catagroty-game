@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Hawkgirl"><rect width="800" height="1000" fill="#1a1008"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#c62828"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#e2c09a"/>
+    <path d="M160 500 Q400 240 640 500 Q400 420 160 500" fill="#ef6c00"/>
+    <path d="M300 240 L400 180 L500 240 L470 340 H330 Z" fill="#c62828"/>
+    <rect x="360" y="560" width="20" height="220" fill="#c9a227"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Hawkgirl</text></svg>

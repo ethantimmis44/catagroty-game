@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Halo: Combat Evolved"><rect width="800" height="1000" fill="#101018"/><rect width="800" height="1000" fill="#0a1a12"/>
+    <ellipse cx="400" cy="420" rx="160" ry="180" fill="#cfd8dc"/>
+    <rect x="300" y="380" width="200" height="40" fill="#111"/>
+    <circle cx="400" cy="400" r="18" fill="#69f0ae"/>
+    <ellipse cx="400" cy="720" rx="200" ry="40" fill="none" stroke="#69f0ae" stroke-width="18"/>
+    <ellipse cx="400" cy="720" rx="140" ry="24" fill="none" stroke="#cfd8dc" stroke-width="10"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Halo: Combat Evolved</text></svg>

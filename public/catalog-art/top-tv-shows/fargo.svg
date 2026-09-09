@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Fargo"><rect width="800" height="1000" fill="#e3f2fd"/><rect y="640" width="800" height="360" fill="#eceff1"/>
+    <polygon points="200,640 400,280 600,640" fill="#90caf9"/>
+    <rect x="300" y="560" width="200" height="160" fill="#c62828"/>
+    <circle cx="160" cy="200" r="40" fill="#fff"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Fargo</text></svg>

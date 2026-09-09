@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Constantine"><rect width="800" height="1000" fill="#14120c"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#5d4037"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#f1d0b0"/>
+    <path d="M250 220 H550 L500 340 H300 Z" fill="#212121"/>
+    <rect x="320" y="680" width="160" height="90" fill="#f4efe4"/>
+    <path d="M360 700 H440" stroke="#c0a062" stroke-width="6"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Constantine</text></svg>

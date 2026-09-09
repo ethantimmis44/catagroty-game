@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="The Elder Scrolls V: Skyrim"><rect width="800" height="1000" fill="#101018"/><rect width="800" height="1000" fill="#1a237e"/>
+    <polygon points="80,820 280,300 400,820" fill="#90a4ae"/>
+    <polygon points="360,820 520,220 720,820" fill="#eceff1"/>
+    <path d="M200 500 Q400 360 600 500" fill="none" stroke="#c9a227" stroke-width="12"/>
+    <polygon points="400,360 430,460 370,460" fill="#c9a227"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">The Elder Scrolls V: Skyrim</text></svg>

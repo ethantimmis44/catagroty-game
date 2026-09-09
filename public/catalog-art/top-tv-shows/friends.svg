@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Friends"><rect width="800" height="1000" fill="#7e57c2"/><rect x="120" y="280" width="560" height="420" fill="#ffe0b2"/>
+    <rect x="180" y="500" width="440" height="140" fill="#8d6e63"/>
+    <circle cx="250" cy="420" r="36" fill="#f1d0b0"/>
+    <circle cx="400" cy="400" r="36" fill="#e2c09a"/>
+    <circle cx="550" cy="420" r="36" fill="#f1d0b0"/>
+    <path d="M80 220 Q400 80 720 220" fill="none" stroke="#f4efe4" stroke-width="10"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Friends</text></svg>

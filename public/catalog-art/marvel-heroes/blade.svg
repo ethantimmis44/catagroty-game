@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Blade"><rect width="800" height="1000" fill="#0a0a0a"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#212121"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#5d4037"/>
+    <path d="M280 240 Q400 180 520 240 L490 340 H310 Z" fill="#111"/>
+    <rect x="560" y="520" width="22" height="280" fill="#cfd8dc"/>
+    <path d="M540 520 L620 480 L570 540" fill="#cfd8dc"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Blade</text></svg>

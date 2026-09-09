@@ -6,9 +6,20 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "seed:catalog": "npx --yes tsx scripts/seed-catalog.ts",
+    "test:rules": "npx --yes tsx scripts/test-auction-rules.ts",
+    "test:opening": "npx --yes tsx scripts/test-opening-bid.ts",
+    "check:schema": "npx --yes tsx scripts/check-schema.ts",
+    "catalog:report": "npx --yes tsx scripts/catalog-report.ts",
+    "catalog:art": "npx --yes tsx scripts/generate-catalog-art.ts",
+    "catalog:status": "npx --yes tsx scripts/catalog-status.ts",
+    "catalog:audit": "npx --yes tsx scripts/catalog-status.ts",
+    "resolve:images": "npx --yes tsx scripts/resolve-item-images.ts",
+    "cache:images": "npx --yes tsx scripts/cache-item-images.ts"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.112.3",
     "next": "16.3.2",
     "react": "19.2.8",
     "react-dom": "19.2.8"

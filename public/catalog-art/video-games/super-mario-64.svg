@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Super Mario 64"><rect width="800" height="1000" fill="#101018"/><rect width="800" height="1000" fill="#29b6f6"/>
+    <polygon points="120,860 400,240 680,860" fill="#66bb6a"/>
+    <circle cx="400" cy="420" r="80" fill="#c62828"/>
+    <rect x="340" y="500" width="120" height="140" fill="#1565c0"/>
+    <circle cx="600" cy="180" r="50" fill="#fffde7"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Super Mario 64</text></svg>

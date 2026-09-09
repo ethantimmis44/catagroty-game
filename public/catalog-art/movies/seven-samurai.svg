@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Seven Samurai"><rect width="800" height="1000" fill="#140c14"/><rect width="800" height="1000" fill="#3e2723"/>
+    <rect x="140" y="500" width="28" height="320" fill="#cfd8dc"/>
+    <rect x="280" y="460" width="28" height="360" fill="#cfd8dc"/>
+    <rect x="420" y="480" width="28" height="340" fill="#cfd8dc"/>
+    <rect x="560" y="440" width="28" height="380" fill="#cfd8dc"/>
+    <circle cx="154" cy="460" r="36" fill="#e2c09a"/>
+    <circle cx="294" cy="420" r="36" fill="#e2c09a"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Seven Samurai</text></svg>

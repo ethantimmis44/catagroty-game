@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Nosferatu"><rect width="800" height="1000" fill="#140c14"/><rect width="800" height="1000" fill="#212121"/>
+    <ellipse cx="400" cy="420" rx="140" ry="180" fill="#eceff1"/>
+    <path d="M300 280 L340 360 L300 360" fill="#eceff1"/>
+    <path d="M500 280 L460 360 L500 360" fill="#eceff1"/>
+    <ellipse cx="360" cy="400" rx="16" ry="28" fill="#111"/>
+    <ellipse cx="440" cy="400" rx="16" ry="28" fill="#111"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Nosferatu</text></svg>

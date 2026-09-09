@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Band of Brothers"><rect width="800" height="1000" fill="#3e2723"/><rect x="80" y="560" width="640" height="80" fill="#5d4037"/>
+    <ellipse cx="280" cy="500" rx="70" ry="120" fill="#6d4c41"/>
+    <ellipse cx="520" cy="500" rx="70" ry="120" fill="#6d4c41"/>
+    <circle cx="280" cy="360" r="50" fill="#e2c09a"/>
+    <circle cx="520" cy="360" r="50" fill="#e2c09a"/>
+    <rect x="240" y="320" width="80" height="24" fill="#4e342e"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Band of Brothers</text></svg>

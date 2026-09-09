@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Super Mario Bros."><rect width="800" height="1000" fill="#101018"/><rect width="800" height="700" fill="#4fc3f7"/>
+    <rect y="700" width="800" height="300" fill="#8d6e63"/>
+    <rect x="0" y="700" width="800" height="40" fill="#43a047"/>
+    <rect x="560" y="420" width="160" height="280" fill="#c62828"/>
+    <rect x="600" y="360" width="80" height="60" fill="#f4efe4"/>
+    <circle cx="280" cy="560" r="90" fill="#c62828"/>
+    <ellipse cx="280" cy="520" rx="70" ry="36" fill="#f1d0b0"/>
+    <rect x="80" y="620" width="90" height="80" fill="#6d4c41"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Super Mario Bros.</text></svg>

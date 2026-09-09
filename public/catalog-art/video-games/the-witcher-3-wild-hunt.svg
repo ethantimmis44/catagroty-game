@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="The Witcher 3: Wild Hunt"><rect width="800" height="1000" fill="#101018"/><rect width="800" height="1000" fill="#0d1b2a"/>
+    <polygon points="400,180 520,420 280,420" fill="#f4efe4"/>
+    <circle cx="400" cy="300" r="28" fill="#111"/>
+    <rect x="360" y="420" width="80" height="320" fill="#c9a227"/>
+    <path d="M120 820 Q400 640 680 820" fill="none" stroke="#90caf9" stroke-width="10"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">The Witcher 3: Wild Hunt</text></svg>

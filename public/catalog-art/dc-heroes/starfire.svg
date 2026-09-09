@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Starfire"><rect width="800" height="1000" fill="#2a1408"/><path d="M200 360 Q400 1020 600 360" fill="#ff8a65"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#e64a19"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#ffcc80"/>
+    <path d="M280 230 Q400 170 520 230 L490 340 H310 Z" fill="#ff7043"/>
+    <circle cx="400" cy="640" r="36" fill="#ffe082"/>
+    <path d="M200 200 Q400 80 600 200" fill="none" stroke="#ffe082" stroke-width="8"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Starfire</text></svg>

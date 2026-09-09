@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Hawkeye"><rect width="800" height="1000" fill="#1c2430"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#37474f"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#f1d0b0"/>
+    <path d="M220 360 L120 520 L260 500" fill="#8d6e63"/>
+    <path d="M580 360 L680 520 L540 500" fill="#8d6e63"/>
+    <line x1="560" y1="640" x2="720" y2="520" stroke="#8d6e63" stroke-width="10"/>
+    <polygon points="720,520 680,500 700,560" fill="#8d6e63"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Hawkeye</text></svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Scarlet Witch"><rect width="800" height="1000" fill="#2a0a14"/><path d="M200 360 Q400 1020 600 360" fill="#4a0000"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#8e0000"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#e2c09a"/>
+    <path d="M250 280 Q400 160 550 280 L520 360 Q400 300 280 360 Z" fill="#8e0000"/>
+    <circle cx="330" cy="360" r="16" fill="#c62828"/>
+    <circle cx="470" cy="360" r="16" fill="#c62828"/>
+    <path d="M280 560 Q400 500 520 560" fill="none" stroke="#c62828" stroke-width="8"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Scarlet Witch</text></svg>

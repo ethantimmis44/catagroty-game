@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="The Godfather"><rect width="800" height="1000" fill="#140c14"/><rect width="800" height="1000" fill="#1a1208"/>
+    <rect x="80" y="160" width="640" height="20" fill="#f4efe4"/>
+    <rect x="80" y="220" width="640" height="20" fill="#f4efe4"/>
+    <rect x="80" y="280" width="640" height="20" fill="#f4efe4"/>
+    <circle cx="400" cy="520" r="110" fill="#e2c09a"/>
+    <path d="M280 430 H520" stroke="#111" stroke-width="16"/>
+    <ellipse cx="400" cy="800" rx="40" ry="50" fill="#ef6c00"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">The Godfather</text></svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Shazam"><rect width="800" height="1000" fill="#3b1408"/><path d="M200 360 Q400 1020 600 360" fill="#f9a825"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#c4122f"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#f1d0b0"/>
+    <polygon points="400,560 430,700 370,700" fill="#f9a825"/>
+    <path d="M300 250 Q400 190 500 250 L470 340 H330 Z" fill="#c4122f"/>
+    <path d="M200 200 L240 280 L160 260" fill="#f9a825"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Shazam</text></svg>

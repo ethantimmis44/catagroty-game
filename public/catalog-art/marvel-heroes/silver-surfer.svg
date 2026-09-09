@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Silver Surfer"><rect width="800" height="1000" fill="#263238"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#b0bec5"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#eceff1"/>
+    <ellipse cx="400" cy="860" rx="240" ry="40" fill="#90a4ae"/>
+    <path d="M160 860 L640 800 L620 880 Z" fill="#cfd8dc"/>
+    <circle cx="400" cy="300" r="16" fill="#fff"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Silver Surfer</text></svg>

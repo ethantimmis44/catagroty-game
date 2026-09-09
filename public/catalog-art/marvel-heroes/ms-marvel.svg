@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Ms. Marvel"><rect width="800" height="1000" fill="#1a1030"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#1565c0"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#e2c09a"/>
+    <path d="M240 500 Q400 360 560 500 Q400 640 240 500" fill="#e040fb" opacity="0.8"/>
+    <circle cx="400" cy="300" r="70" fill="#1565c0"/>
+    <path d="M300 720 H500" stroke="#e040fb" stroke-width="16"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Ms. Marvel</text></svg>

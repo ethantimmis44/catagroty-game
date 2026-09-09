@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Catwoman"><rect width="800" height="1000" fill="#121212"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#212121"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#f1d0b0"/>
+    <path d="M280 220 L340 330 L300 330 Z" fill="#212121"/>
+    <path d="M520 220 L460 330 L500 330 Z" fill="#212121"/>
+    <path d="M300 250 Q400 190 500 250 L470 360 H330 Z" fill="#212121"/>
+    <ellipse cx="360" cy="340" rx="16" ry="10" fill="#ce93d8"/>
+    <ellipse cx="440" cy="340" rx="16" ry="10" fill="#ce93d8"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Catwoman</text></svg>

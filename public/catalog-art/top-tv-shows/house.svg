@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="House"><rect width="800" height="1000" fill="#eceff1"/><rect x="160" y="200" width="480" height="600" fill="#f4efe4"/>
+    <circle cx="400" cy="360" r="70" fill="#e2c09a"/>
+    <rect x="260" y="480" width="280" height="220" fill="#c62828"/>
+    <rect x="320" y="300" width="160" height="20" fill="#212121"/>
+    <rect x="480" y="640" width="80" height="120" fill="#5d4037"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">House</text></svg>

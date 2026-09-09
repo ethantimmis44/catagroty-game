@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Daredevil"><rect width="800" height="1000" fill="#3b0a0a"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#c62828"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#c62828"/>
+    <path d="M300 240 L400 180 L500 240 L470 360 H330 Z" fill="#c62828"/>
+    <path d="M250 220 L330 300" stroke="#ff8a80" stroke-width="10"/>
+    <path d="M550 220 L470 300" stroke="#ff8a80" stroke-width="10"/>
+    <path d="M220 700 Q400 620 580 700" fill="none" stroke="#ff8a80" stroke-width="8"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Daredevil</text></svg>

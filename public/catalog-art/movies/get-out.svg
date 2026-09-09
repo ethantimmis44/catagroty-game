@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Get Out"><rect width="800" height="1000" fill="#140c14"/><rect width="800" height="1000" fill="#eceff1"/>
+    <rect x="160" y="200" width="480" height="560" fill="#90caf9"/>
+    <circle cx="400" cy="420" r="90" fill="#5d4037"/>
+    <rect x="280" y="520" width="240" height="200" fill="#f4efe4"/>
+    <circle cx="400" cy="400" r="70" fill="#fff" opacity="0.35"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Get Out</text></svg>

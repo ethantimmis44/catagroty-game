@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Moon Knight"><rect width="800" height="1000" fill="#12141c"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#eceff1"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#eceff1"/>
+    <path d="M300 240 Q400 180 500 240 L470 360 H330 Z" fill="#eceff1"/>
+    <circle cx="520" cy="220" r="40" fill="#fffde7"/>
+    <path d="M300 360 H500" stroke="#111" stroke-width="8"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Moon Knight</text></svg>

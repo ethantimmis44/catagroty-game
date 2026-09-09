@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Money Heist"><rect width="800" height="1000" fill="#c62828"/><ellipse cx="400" cy="560" rx="160" ry="240" fill="#c62828"/>
+    <ellipse cx="400" cy="340" rx="120" ry="130" fill="#c62828"/>
+    <ellipse cx="360" cy="320" rx="16" ry="12" fill="#111"/>
+    <ellipse cx="440" cy="320" rx="16" ry="12" fill="#111"/>
+    <rect x="300" y="700" width="200" height="28" fill="#fdd835"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Money Heist</text></svg>

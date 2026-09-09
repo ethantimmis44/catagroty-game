@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Winter Soldier"><rect width="800" height="1000" fill="#121820"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#37474f"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#e2c09a"/>
+    <path d="M480 420 L620 360 L600 860 L500 820 Z" fill="#b0bec5"/>
+    <circle cx="540" cy="640" r="20" fill="#90caf9"/>
+    <rect x="300" y="300" width="160" height="24" fill="#111"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Winter Soldier</text></svg>

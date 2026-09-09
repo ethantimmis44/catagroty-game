@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Rick and Morty"><rect width="800" height="1000" fill="#1a237e"/><circle cx="280" cy="400" r="90" fill="#eceff1"/>
+    <circle cx="520" cy="520" r="70" fill="#f1d0b0"/>
+    <rect x="200" y="480" width="160" height="200" fill="#f4efe4"/>
+    <rect x="460" y="580" width="120" height="160" fill="#fdd835"/>
+    <circle cx="400" cy="200" r="36" fill="#69f0ae"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Rick and Morty</text></svg>

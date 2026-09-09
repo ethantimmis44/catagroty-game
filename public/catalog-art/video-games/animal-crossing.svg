@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Animal Crossing"><rect width="800" height="1000" fill="#101018"/><rect width="800" height="1000" fill="#81d4fa"/>
+    <rect y="640" width="800" height="360" fill="#66bb6a"/>
+    <polygon points="180,640 400,280 620,640" fill="#8d6e63"/>
+    <rect x="300" y="520" width="200" height="200" fill="#ffe0b2"/>
+    <circle cx="400" cy="420" r="50" fill="#ffcc80"/>
+    <circle cx="160" cy="220" r="40" fill="#fff"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Animal Crossing</text></svg>

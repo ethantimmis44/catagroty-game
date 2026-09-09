@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Counter-Strike"><rect width="800" height="1000" fill="#101018"/><rect width="800" height="1000" fill="#1b5e20"/>
+    <rect x="220" y="360" width="360" height="80" rx="12" fill="#cfd8dc"/>
+    <rect x="520" y="340" width="160" height="40" fill="#90a4ae"/>
+    <circle cx="400" cy="640" r="90" fill="#37474f"/>
+    <rect x="160" y="800" width="480" height="24" fill="#c62828"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Counter-Strike</text></svg>

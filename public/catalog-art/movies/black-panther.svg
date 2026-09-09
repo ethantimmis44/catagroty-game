@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Black Panther"><rect width="800" height="1000" fill="#140c14"/><rect width="800" height="1000" fill="#0b0b12"/>
+    <ellipse cx="400" cy="560" rx="170" ry="250" fill="#212121"/>
+    <path d="M280 230 L340 340 L300 340 Z" fill="#212121"/>
+    <path d="M520 230 L460 340 L500 340 Z" fill="#212121"/>
+    <path d="M240 560 Q400 700 560 560" fill="#7b5ea7"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Black Panther</text></svg>

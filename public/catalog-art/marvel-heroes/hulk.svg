@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Hulk"><rect width="800" height="1000" fill="#10240f"/>
+    <ellipse cx="400" cy="830" rx="210" ry="250" fill="#43a047"/>
+    <ellipse cx="400" cy="380" rx="160" ry="170" fill="#43a047"/>
+    <ellipse cx="340" cy="350" rx="18" ry="12" fill="#10240f"/>
+    <ellipse cx="460" cy="350" rx="18" ry="12" fill="#10240f"/>
+    <path d="M340 470 Q400 520 460 470" fill="none" stroke="#10240f" stroke-width="10"/>
+    <ellipse cx="220" cy="720" rx="70" ry="90" fill="#43a047"/>
+    <ellipse cx="580" cy="720" rx="70" ry="90" fill="#43a047"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Hulk</text></svg>

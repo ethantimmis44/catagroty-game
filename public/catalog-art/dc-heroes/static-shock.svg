@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Static Shock"><rect width="800" height="1000" fill="#0c1020"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#212121"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#5d4037"/>
+    <path d="M300 240 Q400 180 500 240 L470 340 H330 Z" fill="#212121"/>
+    <path d="M400 560 L360 700 L420 660 L400 820" fill="none" stroke="#7c4dff" stroke-width="10"/>
+    <circle cx="400" cy="300" r="14" fill="#7c4dff"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Static Shock</text></svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Drax"><rect width="800" height="1000" fill="#102018"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#00897b"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#4db6ac"/>
+    <path d="M280 420 L520 420 M300 500 L500 500 M320 580 L480 580" stroke="#b2dfdb" stroke-width="8"/>
+    <rect x="240" y="700" width="28" height="160" fill="#cfd8dc"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Drax</text></svg>

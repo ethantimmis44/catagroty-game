@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Celeste"><rect width="800" height="1000" fill="#101018"/><rect width="800" height="1000" fill="#4a148c"/>
+    <polygon points="80,860 300,300 520,860" fill="#eceff1"/>
+    <polygon points="360,860 560,180 760,860" fill="#f4efe4"/>
+    <rect x="360" y="700" width="80" height="80" fill="#ec407a"/>
+    <circle cx="400" cy="680" r="24" fill="#f8bbd0"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Celeste</text></svg>

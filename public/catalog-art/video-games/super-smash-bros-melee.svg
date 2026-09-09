@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Super Smash Bros. Melee"><rect width="800" height="1000" fill="#101018"/><rect width="800" height="1000" fill="#1565c0"/>
+    <circle cx="280" cy="400" r="90" fill="#c62828"/>
+    <circle cx="520" cy="400" r="90" fill="#fdd835"/>
+    <circle cx="280" cy="680" r="90" fill="#43a047"/>
+    <circle cx="520" cy="680" r="90" fill="#7e57c2"/>
+    <rect x="200" y="860" width="400" height="28" fill="#f4efe4"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Super Smash Bros. Melee</text></svg>

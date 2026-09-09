@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Green Arrow"><rect width="800" height="1000" fill="#0a2010"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#1b5e20"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#e2c09a"/>
+    <path d="M240 300 Q400 220 400 500" fill="none" stroke="#5d4037" stroke-width="12"/>
+    <line x1="520" y1="620" x2="700" y2="500" stroke="#43a047" stroke-width="8"/>
+    <polygon points="700,500 660,490 680,540" fill="#43a047"/>
+    <path d="M300 250 H500 L470 340 H330 Z" fill="#1b5e20"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Green Arrow</text></svg>

@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Metropolis"><rect width="800" height="1000" fill="#140c14"/><rect x="120" y="160" width="120" height="640" fill="#90a4ae"/>
+    <rect x="280" y="220" width="160" height="580" fill="#78909c"/>
+    <rect x="480" y="120" width="180" height="680" fill="#546e7a"/>
+    <circle cx="400" cy="240" r="40" fill="#fdd835"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Metropolis</text></svg>

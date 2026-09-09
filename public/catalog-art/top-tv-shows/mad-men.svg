@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Mad Men"><rect width="800" height="1000" fill="#3e2723"/><rect x="200" y="240" width="400" height="520" fill="#5d4037"/>
+    <circle cx="400" cy="360" r="70" fill="#e2c09a"/>
+    <rect x="280" y="280" width="240" height="24" fill="#212121"/>
+    <rect x="240" y="700" width="320" height="40" fill="#c9a227"/>
+    <path d="M560 300 Q620 240 640 320" fill="none" stroke="#bdbdbd" stroke-width="8"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Mad Men</text></svg>

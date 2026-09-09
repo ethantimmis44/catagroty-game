@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Vision"><rect width="800" height="1000" fill="#2a0c14"/><path d="M200 360 Q400 1020 600 360" fill="#8e24aa"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#e53935"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#e53935"/>
+    <polygon points="400,220 520,360 280,360" fill="#e53935"/>
+    <circle cx="400" cy="300" r="22" fill="#ffeb3b"/>
+    <rect x="300" y="700" width="200" height="24" fill="#ffeb3b"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Vision</text></svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Rocket"><rect width="800" height="1000" fill="#1a120c"/>
+    <ellipse cx="400" cy="640" rx="160" ry="220" fill="#8d6e63"/>
+    <ellipse cx="400" cy="360" rx="110" ry="120" fill="#8d6e63"/>
+    <ellipse cx="360" cy="340" rx="16" ry="20" fill="#1a120c"/>
+    <ellipse cx="440" cy="340" rx="16" ry="20" fill="#1a120c"/>
+    <rect x="520" y="560" width="90" height="28" fill="#ff7043"/>
+    <path d="M300 280 Q400 200 500 280" fill="#5d4037"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Rocket</text></svg>

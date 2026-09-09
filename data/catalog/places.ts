@@ -1,0 +1,62 @@
+import { commonsImage, type CatalogItem } from "@/data/catalog/types";
+
+export { COUNTRY_ITEMS } from "@/data/catalog/countries";
+
+function city(name: string, country: string, continent: string, file: string, wikipedia?: string): CatalogItem {
+  return {
+    name,
+    categories: ["cities"],
+    image: commonsImage(file),
+    metadata: { country, continent, ...(wikipedia ? { wikipedia } : {}) },
+  };
+}
+
+export const CITY_ITEMS: CatalogItem[] = [
+  city("London", "United Kingdom", "Europe", "London_Eye_Twilight_April_2006.jpg"),
+  city("Paris", "France", "Europe", "Tour_Eiffel_Wikimedia_Commons.jpg"),
+  city("Rome", "Italy", "Europe", "Colosseum_in_Rome,_Italy_-_April_2007.jpg"),
+  city("Madrid", "Spain", "Europe", "Gran_Vía_(Madrid)_01.jpg"),
+  city("Berlin", "Germany", "Europe", "Berlin_Brandenburger_Tor_abends.jpg"),
+  city("Amsterdam", "Netherlands", "Europe", "Amsterdam_Canal_Houses.jpg"),
+  city("Athens", "Greece", "Europe", "Acropolis_of_Athens_Sunset.jpg"),
+  city("Istanbul", "Turkey", "Europe", "Hagia_Sophia_Mars_2013.jpg"),
+  city("Moscow", "Russia", "Europe", "Saint_Basils_Cathedral.jpg"),
+  city("New York", "United States", "North America", "NYC_Wideangle_South_from_Top_of_the_Rock.jpg", "New York City"),
+  city("Los Angeles", "United States", "North America", "Hollywood_Sign.jpg"),
+  city("Chicago", "United States", "North America", "Chicago_skyline_from_Lincoln_Park.jpg"),
+  city("Toronto", "Canada", "North America", "Toronto_Skyline_Summer_2020.jpg"),
+  city("Mexico City", "Mexico", "North America", "Catedral_Metropolitana_Ciudad_de_México.jpg"),
+  city("São Paulo", "Brazil", "South America", "Sao_Paulo_Skyline.jpg"),
+  city("Rio de Janeiro", "Brazil", "South America", "Rio_de_Janeiro_from_Sugarloaf.jpg"),
+  city("Buenos Aires", "Argentina", "South America", "Obelisco_Buenos_Aires.jpg"),
+  city("Lima", "Peru", "South America", "Lima_from_the_air.jpg"),
+  city("Cairo", "Egypt", "Africa", "Cairo_Nile_view.jpg"),
+  city("Lagos", "Nigeria", "Africa", "Lagos_Island.jpg"),
+  city("Nairobi", "Kenya", "Africa", "Nairobi_skyline.jpg"),
+  city("Cape Town", "South Africa", "Africa", "Table_Mountain_Docks.jpg"),
+  city("Marrakesh", "Morocco", "Africa", "Jemaa_el-Fnaa.jpg"),
+  city("Tokyo", "Japan", "Asia", "Tokyo_Montage_2015.jpg"),
+  city("Kyoto", "Japan", "Asia", "Kiyomizu-dera_Kyoto.jpg"),
+  city("Seoul", "South Korea", "Asia", "Seoul_cityscape.jpg"),
+  city("Beijing", "China", "Asia", "Forbidden_City_Beijing_Shenwumen_Gate.jpg"),
+  city("Shanghai", "China", "Asia", "Pudong_Shanghai.jpg"),
+  city("Mumbai", "India", "Asia", "Mumbai_03-2016_30_Gateway_of_India.jpg"),
+  city("Delhi", "India", "Asia", "Humayun_Tomb.jpg"),
+  city("Bangkok", "Thailand", "Asia", "Wat_Arun_Ratchawararam.jpg"),
+  city("Singapore", "Singapore", "Asia", "Singapore_Skyline_2019.jpg"),
+  city("Dubai", "United Arab Emirates", "Asia", "Burj_Khalifa.jpg"),
+  city("Sydney", "Australia", "Oceania", "Sydney_Opera_House_Front_View.jpg"),
+  city("Melbourne", "Australia", "Oceania", "Melbourne_skyline_from_Williamstown.jpg"),
+  city("Auckland", "New Zealand", "Oceania", "Auckland_skyline_from_Devonport.jpg"),
+  city("Barcelona", "Spain", "Europe", "Sagrada_Familia_01.jpg"),
+  city("Vienna", "Austria", "Europe", "Stephansdom_Wien.jpg"),
+  city("Prague", "Czech Republic", "Europe", "Prague_skyline_cz.jpg"),
+  city("Lisbon", "Portugal", "Europe", "Lisbon_from_Sao_Jorge.jpg"),
+  city("Hong Kong", "China", "Asia", "Hong_Kong_Skyline_Restitch.jpg"),
+  city("San Francisco", "United States", "North America", "Golden_Gate_Bridge_as_seen_from_Battery_East.jpg"),
+  city("Venice", "Italy", "Europe", "Canal_Grande_Chiesa_della_Salute_e_Dogana_dal_ponte_dell_Accademia.jpg"),
+  city("Stockholm", "Sweden", "Europe", "Stockholm_old_town_2013.jpg"),
+  city("Edinburgh", "United Kingdom", "Europe", "Edinburgh_Castle_from_the_south_east.jpg"),
+  city("Dublin", "Ireland", "Europe", "Dublin_from_the_air.jpg"),
+  city("Johannesburg", "South Africa", "Africa", "Johannesburg_skyline.jpg"),
+];

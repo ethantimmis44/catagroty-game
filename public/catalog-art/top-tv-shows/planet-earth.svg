@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Planet Earth"><rect width="800" height="1000" fill="#0d47a1"/><circle cx="400" cy="480" r="220" fill="#1565c0"/>
+    <ellipse cx="340" cy="420" rx="120" ry="70" fill="#66bb6a"/>
+    <ellipse cx="480" cy="560" rx="90" ry="50" fill="#43a047"/>
+    <circle cx="600" cy="180" r="40" fill="#fffde7"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Planet Earth</text></svg>

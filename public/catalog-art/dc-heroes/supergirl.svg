@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Supergirl"><rect width="800" height="1000" fill="#0c1c3d"/><path d="M200 360 Q400 1020 600 360" fill="#c4122f"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#1565c0"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#f1d0b0"/>
+    <polygon points="400,560 460,700 340,700" fill="#c4122f"/>
+    <path d="M300 250 Q400 200 500 250 L470 340 H330 Z" fill="#1565c0"/>
+    <path d="M250 280 Q400 160 550 280" fill="none" stroke="#f4efe4" stroke-width="8"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Supergirl</text></svg>

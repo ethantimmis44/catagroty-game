@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="E.T. the Extra-Terrestrial"><rect width="800" height="1000" fill="#140c14"/><rect width="800" height="1000" fill="#0d1b2a"/>
+    <ellipse cx="400" cy="560" rx="140" ry="200" fill="#bcaaa4"/>
+    <ellipse cx="400" cy="360" rx="90" ry="110" fill="#bcaaa4"/>
+    <ellipse cx="360" cy="340" rx="16" ry="24" fill="#111"/>
+    <ellipse cx="440" cy="340" rx="16" ry="24" fill="#111"/>
+    <circle cx="600" cy="180" r="40" fill="#fffde7"/>
+    <path d="M520 500 L640 360" stroke="#bcaaa4" stroke-width="18"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">E.T. the Extra-Terrestrial</text></svg>

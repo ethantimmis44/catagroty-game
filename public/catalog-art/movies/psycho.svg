@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Psycho"><rect width="800" height="1000" fill="#140c14"/><rect width="800" height="1000" fill="#212121"/>
+    <polygon points="80,860 280,200 400,860" fill="#eceff1"/>
+    <rect x="480" y="300" width="200" height="400" fill="#37474f"/>
+    <path d="M200 240 L600 240" stroke="#c62828" stroke-width="12"/>
+    <path d="M220 300 L580 300" stroke="#c62828" stroke-width="8"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Psycho</text></svg>

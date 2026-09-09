@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Mantis"><rect width="800" height="1000" fill="#142014"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#7cb342"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#aed581"/>
+    <path d="M340 240 L400 160 L460 240" fill="#aed581"/>
+    <path d="M300 500 Q400 560 500 500" fill="none" stroke="#aed581" stroke-width="8"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Mantis</text></svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Iron Man"><rect width="800" height="1000" fill="#2a1408"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#c4122f"/>
+    <path d="M310 700 L490 700 L470 920 L330 920 Z" fill="#d4a017"/>
+    <path d="M268 250 Q400 140 532 250 L520 500 Q400 580 280 500 Z" fill="#d4a017"/>
+    <rect x="328" y="355" width="144" height="28" rx="10" fill="#7ec8e3"/>
+    <circle cx="400" cy="720" r="36" fill="#7ec8e3"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Iron Man</text></svg>

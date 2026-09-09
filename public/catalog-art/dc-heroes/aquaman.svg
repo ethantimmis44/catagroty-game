@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Aquaman"><rect width="800" height="1000" fill="#0a2430"/><path d="M200 360 Q400 1020 600 360" fill="#f9a825"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#00695c"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#e2c09a"/>
+    <path d="M300 240 Q400 180 500 240 L470 340 H330 Z" fill="#f9a825"/>
+    <rect x="360" y="560" width="24" height="280" fill="#f9a825"/>
+    <path d="M300 560 L480 540 L390 600" fill="#f9a825"/>
+    <path d="M160 860 Q400 780 640 860" fill="none" stroke="#4fc3f7" stroke-width="10"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Aquaman</text></svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="The Flash"><rect width="800" height="1000" fill="#3b0a0a"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#c62828"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#f1d0b0"/>
+    <ellipse cx="400" cy="300" rx="110" ry="70" fill="#c62828"/>
+    <polygon points="400,250 430,330 370,330" fill="#f9a825"/>
+    <path d="M180 640 L320 600 L200 700" fill="#f9a825"/>
+    <path d="M620 640 L480 600 L600 700" fill="#f9a825"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">The Flash</text></svg>

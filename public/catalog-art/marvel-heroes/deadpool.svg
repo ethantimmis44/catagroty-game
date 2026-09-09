@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Deadpool"><rect width="800" height="1000" fill="#3b0a0a"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#c62828"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#c62828"/>
+    <ellipse cx="338" cy="368" rx="40" ry="50" fill="#111"/>
+    <ellipse cx="462" cy="368" rx="40" ry="50" fill="#111"/>
+    <path d="M400 300 V480" stroke="#111" stroke-width="16"/>
+    <circle cx="250" cy="760" r="28" fill="#9e9e9e"/>
+    <circle cx="550" cy="760" r="28" fill="#9e9e9e"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Deadpool</text></svg>

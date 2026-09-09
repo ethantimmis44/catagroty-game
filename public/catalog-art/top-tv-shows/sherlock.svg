@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Sherlock"><rect width="800" height="1000" fill="#263238"/><rect x="200" y="180" width="400" height="560" fill="#37474f"/>
+    <circle cx="400" cy="320" r="80" fill="#e2c09a"/>
+    <path d="M280 240 Q400 160 520 240" fill="#212121"/>
+    <rect x="300" y="720" width="200" height="28" fill="#c9a227"/>
+    <circle cx="560" cy="500" r="40" fill="#90caf9" opacity="0.5"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Sherlock</text></svg>

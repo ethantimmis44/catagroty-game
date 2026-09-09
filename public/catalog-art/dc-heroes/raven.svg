@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Raven"><rect width="800" height="1000" fill="#12081c"/><path d="M200 360 Q400 1020 600 360" fill="#311b92"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#4a148c"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#ce93d8"/>
+    <path d="M280 230 Q400 160 520 230 L490 340 H310 Z" fill="#4a148c"/>
+    <polygon points="400,560 430,680 370,680" fill="#7b1fa2"/>
+    <circle cx="400" cy="300" r="16" fill="#111"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Raven</text></svg>

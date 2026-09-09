@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Wednesday"><rect width="800" height="1000" fill="#0d0d14"/><rect x="200" y="220" width="400" height="560" fill="#212121"/>
+    <circle cx="400" cy="360" r="80" fill="#f1d0b0"/>
+    <path d="M280 260 Q400 180 520 260" fill="#111"/>
+    <rect x="300" y="500" width="200" height="220" fill="#212121"/>
+    <path d="M160 180 H640" stroke="#f4efe4" stroke-width="8"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Wednesday</text></svg>

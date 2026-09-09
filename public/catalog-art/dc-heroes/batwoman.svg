@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Batwoman"><rect width="800" height="1000" fill="#0b0d14"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#212121"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#f1d0b0"/>
+    <path d="M250 220 L320 340 L280 340 L200 240 Z" fill="#212121"/>
+    <path d="M550 220 L480 340 L520 340 L600 240 Z" fill="#212121"/>
+    <path d="M280 250 Q400 180 520 250 L500 380 H300 Z" fill="#212121"/>
+    <path d="M240 560 Q400 700 560 560 Q400 620 240 560" fill="#c62828"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Batwoman</text></svg>

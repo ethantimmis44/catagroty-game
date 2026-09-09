@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Nick Fury"><rect width="800" height="1000" fill="#121212"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#212121"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#5d4037"/>
+    <rect x="250" y="300" width="220" height="28" fill="#111"/>
+    <rect x="250" y="700" width="300" height="160" fill="#263238"/>
+    <circle cx="560" cy="360" r="10" fill="#546e7a"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Nick Fury</text></svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Mad Max: Fury Road"><rect width="800" height="1000" fill="#140c14"/><rect width="800" height="1000" fill="#ff8a65"/>
+    <rect y="560" width="800" height="440" fill="#ef6c00"/>
+    <rect x="160" y="480" width="480" height="160" fill="#424242"/>
+    <circle cx="240" cy="660" r="70" fill="#212121"/>
+    <circle cx="560" cy="660" r="70" fill="#212121"/>
+    <rect x="500" y="400" width="40" height="80" fill="#c62828"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Mad Max: Fury Road</text></svg>

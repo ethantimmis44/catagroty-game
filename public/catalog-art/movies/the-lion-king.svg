@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="The Lion King"><rect width="800" height="1000" fill="#140c14"/><rect width="800" height="1000" fill="#ff8a65"/>
+    <circle cx="400" cy="220" r="90" fill="#fdd835"/>
+    <ellipse cx="400" cy="640" rx="160" ry="180" fill="#f9a825"/>
+    <ellipse cx="400" cy="420" rx="110" ry="100" fill="#f9a825"/>
+    <path d="M300 360 Q400 280 500 360" fill="#ef6c00"/>
+    <ellipse cx="360" cy="400" rx="12" ry="16" fill="#111"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">The Lion King</text></svg>

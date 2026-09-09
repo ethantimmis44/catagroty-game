@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Cyborg"><rect width="800" height="1000" fill="#121418"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#455a64"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#e2c09a"/>
+    <path d="M400 240 L560 360 L400 420 L400 240" fill="#90a4ae"/>
+    <rect x="420" y="300" width="80" height="36" fill="#29b6f6"/>
+    <rect x="480" y="700" width="90" height="40" fill="#90a4ae"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Cyborg</text></svg>

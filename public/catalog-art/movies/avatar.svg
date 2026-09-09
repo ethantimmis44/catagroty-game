@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Avatar"><rect width="800" height="1000" fill="#140c14"/><rect width="800" height="1000" fill="#0d47a1"/>
+    <circle cx="600" cy="180" r="70" fill="#81d4fa"/>
+    <path d="M80 860 Q400 500 720 860" fill="#00695c"/>
+    <ellipse cx="400" cy="560" rx="80" ry="140" fill="#26c6da"/>
+    <path d="M300 240 Q400 160 500 240" fill="#4fc3f7"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Avatar</text></svg>

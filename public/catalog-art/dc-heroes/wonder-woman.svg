@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Wonder Woman"><rect width="800" height="1000" fill="#1a0a10"/><path d="M200 360 Q400 1020 600 360" fill="#c4122f"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#c4122f"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#e2c09a"/>
+    <path d="M250 240 L400 180 L550 240 L500 340 H300 Z" fill="#d4a017"/>
+    <circle cx="400" cy="250" r="28" fill="#c4122f"/>
+    <path d="M280 720 H520" stroke="#d4a017" stroke-width="14"/>
+    <circle cx="250" cy="700" r="36" fill="#d4a017"/>
+    <circle cx="550" cy="700" r="36" fill="#d4a017"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Wonder Woman</text></svg>

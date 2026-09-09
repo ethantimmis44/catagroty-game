@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Starbucks"><rect width="800" height="1000" fill="#111111"/><circle cx="400" cy="480" r="220" fill="#00704a"/>
+    <ellipse cx="400" cy="500" rx="90" ry="120" fill="#d4e157"/>
+    <path d="M310 420 Q400 360 490 420" fill="none" stroke="#00704a" stroke-width="12"/>
+    <circle cx="400" cy="360" r="24" fill="#d4e157"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Starbucks</text></svg>

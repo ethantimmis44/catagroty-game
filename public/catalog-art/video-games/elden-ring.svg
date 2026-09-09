@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Elden Ring"><rect width="800" height="1000" fill="#101018"/><rect width="800" height="1000" fill="#0d1b2a"/>
+    <circle cx="400" cy="420" r="160" fill="none" stroke="#c9a227" stroke-width="18"/>
+    <circle cx="400" cy="420" r="70" fill="#c9a227"/>
+    <polygon points="80,860 400,560 720,860" fill="#1b263b"/>
+    <path d="M200 700 L400 520 L600 700" fill="none" stroke="#90caf9" stroke-width="8"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Elden Ring</text></svg>

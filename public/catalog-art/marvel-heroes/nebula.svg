@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Nebula"><rect width="800" height="1000" fill="#0c1c28"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#1565c0"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#29b6f6"/>
+    <rect x="300" y="300" width="200" height="20" fill="#90caf9"/>
+    <path d="M520 360 L600 300 L580 500 L500 480" fill="#90a4ae"/>
+    <circle cx="400" cy="360" r="12" fill="#fff"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Nebula</text></svg>

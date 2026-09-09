@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Tesla"><rect width="800" height="1000" fill="#111111"/><rect x="160" y="480" width="480" height="160" rx="40" fill="#eceff1"/>
+    <circle cx="260" cy="660" r="50" fill="#212121"/>
+    <circle cx="540" cy="660" r="50" fill="#212121"/>
+    <path d="M240 480 Q400 300 560 480" fill="#cc0000"/>
+    <rect x="360" y="500" width="80" height="40" fill="#90caf9"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Tesla</text></svg>

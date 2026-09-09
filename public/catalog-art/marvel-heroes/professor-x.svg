@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Professor X"><rect width="800" height="1000" fill="#101828"/>
+    <ellipse cx="400" cy="860" rx="200" ry="160" fill="#1565c0"/>
+    <ellipse cx="400" cy="420" rx="140" ry="150" fill="#f1d0b0"/>
+    <rect x="300" y="720" width="200" height="28" fill="#5c6bc0"/>
+    <circle cx="400" cy="780" r="90" fill="#37474f"/>
+    <path d="M280 320 H520" stroke="#eceff1" stroke-width="18"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Professor X</text></svg>

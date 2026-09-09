@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="The Office"><rect width="800" height="1000" fill="#eceff1"/><rect x="80" y="200" width="640" height="560" fill="#f4efe4"/>
+    <rect x="120" y="260" width="240" height="140" fill="#90caf9"/>
+    <rect x="440" y="260" width="240" height="140" fill="#90caf9"/>
+    <rect x="200" y="500" width="400" height="160" fill="#ffe0b2"/>
+    <circle cx="400" cy="480" r="36" fill="#f1d0b0"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">The Office</text></svg>

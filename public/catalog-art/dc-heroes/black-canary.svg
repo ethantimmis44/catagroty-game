@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Black Canary"><rect width="800" height="1000" fill="#121018"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#212121"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#f1d0b0"/>
+    <path d="M280 230 Q400 170 520 230 L490 340 H310 Z" fill="#fdd835"/>
+    <path d="M300 500 Q400 560 500 500" fill="none" stroke="#fdd835" stroke-width="10"/>
+    <circle cx="400" cy="640" r="20" fill="#fdd835"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Black Canary</text></svg>

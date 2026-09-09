@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Groot"><rect width="800" height="1000" fill="#1a140c"/>
+    <rect x="330" y="260" width="140" height="620" rx="40" fill="#6d4c41"/>
+    <ellipse cx="400" cy="240" rx="90" ry="100" fill="#6d4c41"/>
+    <path d="M280 400 Q200 320 240 260" fill="none" stroke="#6d4c41" stroke-width="28"/>
+    <path d="M520 400 Q600 320 560 260" fill="none" stroke="#6d4c41" stroke-width="28"/>
+    <ellipse cx="370" cy="230" rx="10" ry="14" fill="#1a140c"/>
+    <ellipse cx="430" cy="230" rx="10" ry="14" fill="#1a140c"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Groot</text></svg>

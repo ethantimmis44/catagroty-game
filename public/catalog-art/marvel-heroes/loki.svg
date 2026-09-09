@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Loki"><rect width="800" height="1000" fill="#0d2818"/><path d="M200 360 Q400 1020 600 360" fill="#2e7d32"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#1b5e20"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#f1d0b0"/>
+    <path d="M250 220 L320 360 H280 L210 240 Z" fill="#c9a227"/>
+    <path d="M550 220 L480 360 H520 L590 240 Z" fill="#c9a227"/>
+    <rect x="360" y="620" width="80" height="240" fill="#c9a227"/>
+    <path d="M300 280 H500 L470 360 H330 Z" fill="#1b5e20"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Loki</text></svg>

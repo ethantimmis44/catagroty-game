@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Captain America"><rect width="800" height="1000" fill="#0c1c3d"/><path d="M200 360 Q400 1020 600 360" fill="#c4122f"/>
+    <ellipse cx="400" cy="820" rx="175" ry="270" fill="#1565c0"/>
+    <ellipse cx="400" cy="392" rx="132" ry="152" fill="#f1d0b0"/>
+    <path d="M270 300 Q400 210 530 300 L510 360 Q400 320 290 360 Z" fill="#1565c0"/>
+    <circle cx="400" cy="300" r="48" fill="#f4efe4"/>
+    <circle cx="400" cy="300" r="18" fill="#c4122f"/>
+    <path d="M320 720 H480 L460 900 H340 Z" fill="#f4efe4"/>
+    <path d="M400 720 V900" stroke="#c4122f" stroke-width="14"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Captain America</text></svg>

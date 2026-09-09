@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="House of the Dragon"><rect width="800" height="1000" fill="#1a0a0a"/><path d="M160 700 Q400 200 640 700" fill="#c62828"/>
+    <circle cx="280" cy="420" r="30" fill="#fdd835"/>
+    <circle cx="520" cy="420" r="30" fill="#fdd835"/>
+    <path d="M200 240 L280 360 L200 340" fill="#c62828"/>
+    <path d="M600 240 L520 360 L600 340" fill="#c62828"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">House of the Dragon</text></svg>

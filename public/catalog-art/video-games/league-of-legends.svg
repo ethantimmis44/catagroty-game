@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="League of Legends"><rect width="800" height="1000" fill="#101018"/><rect width="800" height="1000" fill="#0d1b2a"/>
+    <polygon points="400,180 470,360 330,360" fill="#c9a227"/>
+    <circle cx="400" cy="560" r="140" fill="none" stroke="#c9a227" stroke-width="16"/>
+    <path d="M200 800 L400 620 L600 800" fill="none" stroke="#90caf9" stroke-width="10"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">League of Legends</text></svg>

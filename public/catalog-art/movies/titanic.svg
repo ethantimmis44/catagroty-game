@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Titanic"><rect width="800" height="1000" fill="#140c14"/><rect width="800" height="1000" fill="#0d47a1"/>
+    <rect x="160" y="240" width="480" height="160" fill="#eceff1"/>
+    <polygon points="80,240 200,80 280,240" fill="#e3f2fd"/>
+    <rect y="500" width="800" height="500" fill="#1565c0"/>
+    <rect x="200" y="400" width="400" height="80" fill="#cfd8dc"/><text x="400" y="970" text-anchor="middle" font-size="22" fill="#f4efe4" font-family="Georgia, serif">Titanic</text></svg>
